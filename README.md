@@ -28,33 +28,7 @@
 * **日期选择组件**
 
 ## 项目基本结构
-	    .
-	    |-- build                      	// 项目构建相关
-	    |-- config  				 	// 项目开发环境配置
-		|-- node_modules				
-	    |-- src  						// 源码目录
-	    |   |-- components 				// 公共组件
-		|		|-- base				// 基础组件相关
-		|	|-- router					// 路由设置目录
-		|		|-- index.js			// 路由设置入口问文件
-	    |   |-- store  					// vuex状态数据仓库
-		|		|-- modules				// 子数据仓库
-		|		|-- index.js			// 数据仓库入口文件
-	    |   |-- App.vue					// 主组件
-	    |   |-- main.js					// 程序入口文件，加载各种公共组件
-		|	|-- views					// 较独立的组件
-		|		|-- detail				// 产品详情各模块
-	    |-- static  					
-	    |-- .babelrc 					
-	    |-- .editorconfig				// 编译器配置
-		|-- .eslintignore				// 忽略检查设置
-		|-- .eslintrc.js				// eslint配置文件
-	    |-- .gitignore   				// git上传忽略的文件格式    
-	    |-- favicon.ico 
-	    |-- index.html   				// 入口页面
-	    |-- package.json 				// 项目基本信息
-		|-- README.md					// 项目说明
-	    .
+![](https://i.imgur.com/OPcPEF3.jpg)
 
 ## 项目预览
 * **主页**
